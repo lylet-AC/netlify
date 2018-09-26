@@ -1,0 +1,21 @@
+name: Projects
+source:
+  - icon: fa fa-github
+    url: https://github.com/GatorGauge/GatorGauge
+    name: GatorGauge
+    description: is a tool that allows professors to easily gain information on practicals and laboratory assignments completed by their students. GatorGauge does this by enabling professors to download and analyze the information in student repositories.
+
+  - icon: fa fa-github
+    url: https://github.com/GatorGrouper/gatorgrouper
+    name: GatorGrouper
+    description: is a Python 3 program that assigns a list of students to groups of a specified size. The output of this program could then be communicated to the students in a specific class in order to assign randomized groups.
+
+  - icon: fa fa-github
+    url: https://github.com/Accelegator/accelegator
+    name: Accelegator
+    description: is an adaptive advising tool written to help advisors help their students. The program takes information on individual and multiple advisees, analyzing, compiling, and displaying it for the advisor in a helpful manner.
+  
+  - icon: fa fa-github
+    url: https://github.com/lylet-AC/portfolio
+    name: Portolio
+    description: is a repository with projects in which there was no collaboration.  This is an example of work I have done and my progress as a student.
