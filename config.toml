@@ -11,11 +11,11 @@ theme = "sustain"
   post = "/:year/:month/:day/:slug"
 
 [params]
-  avatar = "splash.ico"
+  avatar = "profile.jpg"
   author = "Tyler Lyle"
   description = "A CS480 Site"
-  ava_width="200"
-  ava_height="200"
+  ava_width="225"
+  ava_height="300"
   icon="placeholder.png"
 
   # Custom assets can be linked with their paths relative to static/
