@@ -4,7 +4,7 @@ This is a netlify website for Tyler Lyle.  This website was generated using an e
 
 `git clone https://github.com/lylet-AC/netlify.git`
 
-After the repository is cloned, then install hugo: `sudo apt-install hugo`
+After the repository is cloned, then install hugo: `sudo apt-get install hugo`
 
 Lastly build the site by navigating to the repository's root directory and type: `hugo`.  If you wish to serve the website to a local site: `hugo server -D`.
 
