@@ -1,6 +1,6 @@
 # Netlify Site
 
-This is a netlify website for Tyler Lyle.  This website was generated using an editted version of the [__sustain theme__](https://themes.gohugo.io/hugo-sustain/)  In order to generate this site using [__hugo__] first clone the repository:
+This is a netlify website for Tyler Lyle.  This website was generated using an editted version of the [__sustain theme__](https://themes.gohugo.io/hugo-sustain/)  In order to generate this site using [__hugo__](https://gohugo.io/) first clone the repository:
 
 `git clone https://github.com/lylet-AC/netlify.git`
 
