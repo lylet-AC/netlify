@@ -1,4 +1,4 @@
-#baseurl = "https://relaxed-mccarthy-6bf66c.netlify.com/"
+#baseurl = "/"
 languageCode = "en-US"
 title = "Tyler Lyle"
 # Enable comments by entering your Disqus shortname
@@ -11,12 +11,11 @@ theme = "sustain"
   post = "/:year/:month/:day/:slug"
 
 [params]
-  avatar = "splash.ico"
+  avatar = "placeholder.png"
   author = "Tyler Lyle"
   description = "A CS480 Site"
   ava_width="200"
   ava_height="200"
-  icon="placeholder.png"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = ["custom.css"]
@@ -32,11 +31,11 @@ theme = "sustain"
   #Telegram      = "username"
 
 ## Main Menu
-#[[menu.main]]
-  #name = "blog"
-  #weight = 100
-  #identifier = "blog"
-  #url = "/blog/"
+[[menu.main]]
+  name = "blog"
+  weight = 100
+  identifier = "blog"
+  url = "/blog/"
 [[menu.main]]
   name = "projects"
   identifier = "projects"
@@ -46,4 +45,4 @@ theme = "sustain"
   name = "resume"
   identifier = "resume"
   weight = 300
-  url = "/resume/Resume.pdf"
+  url = "/resume/"
