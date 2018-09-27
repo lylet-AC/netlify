@@ -1,3 +1,5 @@
-#run checks on markdown
-  #Markdown
-  - proselint README.md
+#Adds travis support to check code for errors
+before install:
+  - gem install mdl
+script:
+  - mdl README.md
