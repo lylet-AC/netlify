@@ -1,0 +1,3 @@
+#run checks on markdown
+  #Markdown
+  - proselint README.md
