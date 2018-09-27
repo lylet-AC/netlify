@@ -1,5 +1,3 @@
 # run checks on Markdown writing through proselint script:
 # Markdown
 - proselint README.md
-# run checks on HTML writing through htmlhint
-- htmlhint *.html
