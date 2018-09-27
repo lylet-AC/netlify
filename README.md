@@ -9,5 +9,3 @@ After the repository is cloned, then install hugo: `sudo apt-get install hugo`
 Lastly build the site by navigating to the repository's root directory and type: `hugo`.  If you wish to serve the website to a local site: `hugo server -D`.
 
 The site is hosted on: [__netlify__](https://gracious-mirzakhani-f01325.netlify.com/)
-
-#This line will allow travis to build it's tests
