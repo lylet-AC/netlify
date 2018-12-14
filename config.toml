@@ -27,21 +27,21 @@ theme = "sustain"
   Email         = "lylet@allegheny.edu"
   Twitter       = "lylet_AC"
   LinkedIn      = "tyler-lyle"
-  #Stackoverflow = "username"
+  Stackoverflow = "Tyler Lyle"
   #Medium        = "username"
   #Telegram      = "username"
 
 ## Main Menu
-#[[menu.main]]
-  #name = "blog"
-  #weight = 100
-  #identifier = "blog"
-  #url = "/blog/"
 [[menu.main]]
   name = "projects"
   identifier = "projects"
-  weight = 200
+  weight = 100
   url = "/projects/"
+[[menu.main]]
+  name = "blog"
+  weight = 200
+  identifier = "blog"
+  url = "/blog/"
 [[menu.main]]
   name = "resume"
   identifier = "resume"

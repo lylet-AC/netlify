@@ -14,8 +14,18 @@ source:
     url: https://github.com/Accelegator/accelegator
     name: Accelegator
     description: is an adaptive advising tool written to help advisors help their students. The program takes information on individual and multiple advisees, analyzing, compiling, and displaying it for the advisor in a helpful manner.
-  
+
   - icon: fa fa-github
     url: https://github.com/lylet-AC/portfolio
     name: Portolio
     description: is a repository with projects in which there was no collaboration.  This is an example of work I have done and my progress as a student.
+
+  - icon: fa fa-github
+    url: https://github.com/lylet-AC/blockbuster
+    name: BlockBuster
+    description: is a repository containing a game created for the Computer Science 480 course.  BlockBuster is a game that resembles an arkanoid type game with a twist!
+
+  - icon: fa fa-github
+    url: https://github.com/lylet-AC/Netlify
+    name: Netlify
+    description: is a repository that contains the information on this website.  This website is built using Hugo, a static site generator.  Feel free to use this template to build your own Hugo website.
