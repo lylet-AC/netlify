@@ -46,4 +46,4 @@ theme = "sustain"
   name = "resume"
   identifier = "resume"
   weight = 300
-  url = "/resume/Resume.pdf"
+  url = "https://github.com/lylet-AC/Resume/releases"
